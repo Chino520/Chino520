@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chino520
+- 👋 Hi, I’m haochen
 - 👀 I’m interested in an action game named MonsterHunter.
 - 🌱 I’m currently learning Information Science.
 - 💞️ I’m looking to collaborate on Minecraft project(Add-on, mod, service, and so on).
