@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chino520
-- 👀 I’m interested in a action game named MonsterHunter.
+- 👀 I’m interested in an action game named MonsterHunter.
 - 🌱 I’m currently learning Information Science.
 - 💞️ I’m looking to collaborate on Minecraft project(Add-on, mod, service, and so on).
-- 📫 You can reach me by sending direct message to my Twitter @5chino20.
+- 📫 You can reach me by sending me an E-mail to haochen.qiu.cs@gmail.com.
 
 <!--
 comment here
